@@ -8,10 +8,11 @@ spring:
     password: abraham
   flyway:
     enabled: true
+    baselineOnMigrate: true
 
   jpa:
     hibernate:
-      ddl-auto: create
+      ddl-auto: none
     database: postgresql
     database-platform: org.hibernate.dialect.PostgreSQLDialect
 logging:
