@@ -13,7 +13,7 @@ This project is for the recruitment of a microservices job listing
 1. Clone the repository:
    ```bash
    git clone https://github.com/xinantecatl365/abraham-microservices-test.git
-   cd my-awesome-project
+   cd abraham-microservices-test
    docker compose up
 I would recommend importing the project inside Intellij and start the services 1 by 1 starting with the config-server; then the discovery-server; the rest can be instantiated after.
 
@@ -30,4 +30,4 @@ I would recommend importing the project inside Intellij and start the services 1
 
 ## Documentation
 1. Basic diagrams
-![credits](https://drive.google.com/file/d/180s7veU3d5Azx2PjL4ogHP75UBLk9GTz/view)
+![credits](https://drive.usercontent.google.com/download?id=180s7veU3d5Azx2PjL4ogHP75UBLk9GTz&export=download&authuser=0)
