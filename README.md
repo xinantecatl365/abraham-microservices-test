@@ -30,4 +30,4 @@ I would recommend importing the project inside Intellij and start the services 1
 
 ## Documentation
 1. Basic diagrams
-![credits](https://drive.google.com/file/d/180s7veU3d5Azx2PjL4ogHP75UBLk9GTz/view?usp=drive_link)
+![credits](https://drive.google.com/file/d/180s7veU3d5Azx2PjL4ogHP75UBLk9GTz/view)
